@@ -1,0 +1,23 @@
+.primary {
+	background-color: greenyellow;
+	color: rgb(29, 25, 25);
+	font-size: medium;
+	padding: 3px;
+	margin: 2px;
+	border-radius: 5px;
+	border: none;
+}
+.secondary {
+	background-color: rgb(255, 47, 92);
+	color: #fff;
+	font-size: medium;
+	padding: 3px;
+	margin: 2px;
+	border-radius: 5px;
+	border: none;
+}
+button {
+	border-radius: 5px;
+	padding: 2px;
+	margin: 2px;
+}
